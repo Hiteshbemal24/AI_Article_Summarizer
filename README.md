@@ -61,8 +61,8 @@ The project structure is organized as follows:
 
 ## How to Use
 
-1. Enter the URL of the article you want to summarize in the input field.
-2. Click the "Summarize" button.
+1. Enter or Paste the URL of the article you want to summarize in the input field.
+2. Click the "↩" button to Submit.
 3. The summarized article will be displayed on the screen in real-time.
 4. Enjoy a concise and informative summary of the article!
 
